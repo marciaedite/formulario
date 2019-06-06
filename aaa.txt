@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Concurso de fotografia</title>
+  <title>LANÇAMENTO DE NOTAS</title>
   <meta charset="utf-8">
 </head>
 <body>
